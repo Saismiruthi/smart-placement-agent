@@ -1,0 +1,16 @@
+role,required_skills,nice_to_have,experience_level,salary_lpa
+Software Development Engineer,Python|Java|Data Structures|Algorithms|OOP|Git|SQL|Problem Solving|REST API|System Design,Docker|Kubernetes|AWS|Microservices|Redis,Fresher,6-12
+Data Scientist,Python|Machine Learning|Deep Learning|Statistics|Pandas|NumPy|Scikit-learn|SQL|Data Analysis|Feature Engineering,TensorFlow|PyTorch|Spark|Tableau|NLP|MLflow,Fresher,7-14
+Data Analyst,SQL|Python|Excel|Data Analysis|Statistics|Pandas|Tableau|Power BI|Data Visualization|Communication,R|Machine Learning|Seaborn|ETL|Looker,Fresher,4-8
+Frontend Developer,HTML|CSS|JavaScript|React|Git|REST API|Responsive Design|TypeScript|Problem Solving|UI Design,Vue.js|Angular|Node.js|Webpack|Jest|Figma,Fresher,5-10
+Backend Developer,Python|Java|SQL|REST API|Git|OOP|System Design|MySQL|Problem Solving|Data Structures,Docker|Redis|Kafka|Microservices|AWS|PostgreSQL,Fresher,6-12
+Full Stack Developer,HTML|CSS|JavaScript|React|Node.js|SQL|Python|Git|REST API|OOP,Docker|AWS|TypeScript|MongoDB|Redis|GraphQL,Fresher,7-13
+Machine Learning Engineer,Python|Machine Learning|Deep Learning|TensorFlow|PyTorch|SQL|Statistics|Git|Feature Engineering|Model Deployment,Docker|Kubernetes|AWS|Spark|MLflow|FastAPI,Fresher,8-15
+DevOps Engineer,Linux|Docker|Kubernetes|CI/CD|Git|AWS|Python|Scripting|Networking|Jenkins,Terraform|Ansible|GCP|Azure|Monitoring|Helm,Fresher,7-14
+Cloud Engineer,AWS|Azure|GCP|Docker|Linux|Python|Networking|Security|Git|Infrastructure,Kubernetes|Terraform|CI/CD|Scripting|CloudFormation,Fresher,8-15
+Cybersecurity Analyst,Networking|Security|Linux|Python|Risk Assessment|Ethical Hacking|Firewalls|SQL|Communication|Problem Solving,SIEM|Penetration Testing|Cloud Security|Scripting|Wireshark,Fresher,6-12
+Android Developer,Java|Kotlin|Android SDK|Git|OOP|REST API|SQL|Problem Solving|UI Design|Firebase,Kotlin Coroutines|Testing|CI/CD|Jetpack Compose,Fresher,5-11
+AI Engineer,Python|Machine Learning|Deep Learning|NLP|TensorFlow|PyTorch|Statistics|Git|System Design|Model Deployment,Docker|AWS|LLMs|Vector Databases|MLflow|LangChain,Fresher,9-18
+iOS Developer,Swift|Xcode|OOP|REST API|Git|Problem Solving|UI Design|Core Data|Auto Layout,SwiftUI|Testing|CI/CD|CocoaPods|Firebase,Fresher,6-12
+Database Administrator,SQL|MySQL|PostgreSQL|Oracle|Performance Tuning|Backup|Security|Linux|Scripting|Data Modeling,MongoDB|Redis|AWS RDS|Replication|Indexing,Fresher,5-10
+QA Engineer,Testing|Selenium|Python|SQL|Git|Test Planning|Bug Reporting|REST API|Communication|Problem Solving,Cypress|JUnit|CI/CD|Performance Testing|Postman,Fresher,4-9

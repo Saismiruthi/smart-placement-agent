@@ -1,0 +1,25 @@
+RIYA PATEL
+riya.patel@gmail.com | +91 9123456780 | linkedin.com/in/riyapatel
+State Engineering College, Nagpur | B.Tech Computer Science | CGPA: 6.8
+
+SKILLS
+Programming: Python, HTML, CSS
+Database: SQL (basic)
+Tools: Git, VS Code
+
+PROJECTS
+Calculator App (Python)
+- Built a command-line calculator using Python with basic operations
+- Used functions and error handling
+
+Portfolio Website (HTML/CSS)
+- Created a static personal portfolio website
+- Used responsive design with CSS Flexbox
+
+EDUCATION
+B.Tech Computer Science — State Engineering College (2024)
+12th Grade — 78% | 10th Grade — 82%
+
+CERTIFICATIONS
+- Python Basics — Coursera (2023)
+- Web Development Fundamentals — Udemy (2023)

@@ -1,0 +1,31 @@
+id,question,type,topic,difficulty,sample_answer_keywords
+1,Tell me about yourself.,HR,Introduction,easy,background|skills|goals|concise|structured
+2,Why do you want to work at this company?,HR,Motivation,easy,research|values|growth|fit|specific
+3,What are your strengths and weaknesses?,HR,Self-awareness,easy,honest|improvement|relevant|example|growth
+4,Where do you see yourself in 5 years?,HR,Career Goals,easy,growth|learning|leadership|aligned|realistic
+5,Describe a challenging project you worked on.,HR,Behavioral,medium,situation|task|action|result|STAR|impact
+6,How do you handle tight deadlines?,HR,Behavioral,medium,prioritize|communicate|calm|example|outcome
+7,Tell me about a time you worked in a team.,HR,Teamwork,medium,collaboration|conflict|resolution|outcome|role
+8,Why should we hire you?,HR,Value Proposition,medium,skills|fit|contribution|unique|evidence
+9,How do you handle failure or mistakes?,HR,Resilience,medium,acknowledge|learn|improve|example|positive
+10,Describe your ideal work environment.,HR,Culture Fit,easy,collaborative|growth|feedback|balance|aligned
+11,What is Object Oriented Programming?,Technical,OOP,easy,encapsulation|inheritance|polymorphism|abstraction|class
+12,Explain the difference between a list and a tuple in Python.,Technical,Python,easy,mutable|immutable|performance|use-case|syntax
+13,What is a RESTful API?,Technical,Web,easy,stateless|HTTP|endpoints|CRUD|JSON|methods
+14,Explain normalization in databases.,Technical,Database,medium,1NF|2NF|3NF|redundancy|anomalies|dependency
+15,What is the difference between SQL and NoSQL?,Technical,Database,medium,structured|unstructured|scaling|ACID|examples|schema
+16,Explain time and space complexity with an example.,Technical,DSA,medium,Big O|O(n)|O(log n)|trade-off|example|worst-case
+17,What is machine learning? Explain supervised vs unsupervised.,Technical,ML,medium,labeled|unlabeled|classification|clustering|examples|training
+18,What is overfitting and how do you prevent it?,Technical,ML,medium,regularization|dropout|cross-validation|more-data|bias-variance
+19,Explain how Git branching works.,Technical,DevOps,easy,branch|merge|conflict|pull-request|workflow|commit
+20,What is Docker and why is it used?,Technical,DevOps,medium,container|isolation|portability|image|compose|lightweight
+21,Describe the SOLID principles.,Technical,OOP,hard,single-responsibility|open-closed|Liskov|interface|dependency
+22,What happens when you type a URL in a browser?,Technical,Networking,hard,DNS|TCP|HTTP|server|render|steps|TLS
+23,Design a URL shortener system.,Technical,System Design,hard,hashing|database|cache|scalability|API|base62
+24,What is a deadlock? How do you prevent it?,Technical,OS,medium,mutual-exclusion|hold-wait|circular|prevention|detection
+25,Explain the difference between process and thread.,Technical,OS,medium,memory|concurrency|lightweight|context-switch|shared|independent
+26,What is indexing in databases?,Technical,Database,medium,B-tree|performance|trade-off|primary|secondary|query-speed
+27,Explain recursion with an example.,Technical,DSA,easy,base-case|recursive-call|stack|example|factorial|fibonacci
+28,What is the difference between stack and heap memory?,Technical,Memory,medium,static|dynamic|allocation|lifetime|overflow|scope
+29,How does garbage collection work in Python?,Technical,Python,medium,reference-counting|cyclic|gc-module|memory|automatic|CPython
+30,Design a parking lot system.,Technical,System Design,hard,OOP|classes|inheritance|vehicle|slot|fee|scalability

@@ -1,0 +1,29 @@
+# Core agent framework
+crewai==0.28.8
+crewai-tools==0.1.6
+
+# LLM
+ollama==0.1.9
+langchain-community==0.0.38
+
+# Vector database
+chromadb==0.4.24
+
+# NLP
+sentence-transformers==2.7.0
+
+# Resume parsing
+pypdf==4.1.0
+
+# UI
+streamlit==1.33.0
+plotly==5.20.0
+pandas==2.2.1
+
+# Storage
+sqlalchemy==2.0.29
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.7.0
+loguru==0.7.2

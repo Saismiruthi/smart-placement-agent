@@ -1,0 +1,47 @@
+PRIYA SHARMA
+priya.sharma@gmail.com | +91 9988776655 | linkedin.com/in/priyasharma
+IIT Bombay | B.Tech Computer Science | CGPA: 9.1
+
+SKILLS
+ML/AI: Machine Learning, Deep Learning, NLP, Computer Vision
+Frameworks: TensorFlow, PyTorch, Scikit-learn, Hugging Face, LangChain
+Programming: Python, C++, SQL, Bash Scripting
+MLOps: Docker, Kubernetes, AWS SageMaker, MLflow, FastAPI, CI/CD
+Data: Pandas, NumPy, Spark, Feature Engineering, Statistics
+Tools: Git, Linux, Jupyter, VS Code, Weights & Biases
+
+EXPERIENCE
+ML Research Intern — IISc Bangalore (Jan 2023 – Dec 2023)
+- Fine-tuned LLaMA-2 on domain-specific dataset achieving 23% improvement
+- Built distributed training pipeline using PyTorch DDP on 4x A100 GPUs
+- Published research paper at EMNLP 2023 Workshop on model compression
+- Mentored 3 junior interns on NLP fundamentals and best practices
+
+Open Source Contributor — Hugging Face Transformers (2022 – present)
+- Contributed 8 pull requests including new tokenizer optimizations
+- 340+ GitHub stars on personal NLP utility library
+
+PROJECTS
+Real-Time Object Detection System
+- Implemented YOLOv8 with custom training pipeline in PyTorch
+- Achieved 94.2% mAP on custom industrial defect detection dataset
+- Deployed on edge device using ONNX + TensorRT optimization
+
+MLOps Pipeline (Production-Grade)
+- End-to-end ML pipeline: data ingestion → training → evaluation → deployment
+- Used Docker + GitHub Actions CI/CD + AWS SageMaker for deployment
+- Automated model retraining triggered by data drift detection (Evidently AI)
+
+Vector Search Engine
+- Built semantic search system using FAISS + Sentence Transformers
+- Indexed 1M+ documents with sub-100ms query latency
+- FastAPI backend with ChromaDB persistent storage
+
+EDUCATION
+B.Tech Computer Science — IIT Bombay (2024)
+CGPA: 9.1/10 | Minor in Mathematics
+
+ACHIEVEMENTS
+- ACM ICPC Asia Regionals — Top 50 (2022)
+- Google Summer of Code 2023 participant
+- Best Thesis Award — IIT Bombay CS Department 2024

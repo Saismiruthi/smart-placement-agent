@@ -1,0 +1,31 @@
+id,title,topic,difficulty,description,hint,companies
+1,Two Sum,Arrays,easy,Find two numbers in array that add to target,Use a hashmap for O(n),Amazon|Google|Microsoft
+2,Reverse a String,Strings,easy,Reverse a given string in-place,Two pointer approach,Infosys|Wipro|TCS
+3,Fibonacci Sequence,Recursion,easy,Return nth Fibonacci number,Think DP to optimize,TCS|Cognizant
+4,Valid Parentheses,Stack,easy,Check if bracket sequence is valid,Use a stack data structure,Amazon|Goldman Sachs
+5,Binary Search,Searching,easy,Implement binary search on sorted array,Mid = (low+high)//2,All companies
+6,Merge Two Sorted Lists,Linked List,easy,Merge two sorted linked lists,Compare heads recursively,Microsoft|Adobe
+7,Palindrome Check,Strings,easy,Check if a string is a palindrome,Two pointers from both ends,TCS|Infosys|Wipro
+8,Find Maximum Element,Arrays,easy,Find the maximum element in an array,Single pass O(n),All companies
+9,Climbing Stairs,Dynamic Programming,easy,Count ways to climb n stairs (1 or 2 steps),dp[n] = dp[n-1] + dp[n-2],Amazon|TCS
+10,Palindrome Linked List,Linked List,easy,Check if linked list is a palindrome,"Find middle, reverse second half",Microsoft|Adobe
+11,Count Vowels,Strings,easy,Count vowels in a given string,Use a set for O(1) lookup,Infosys|Cognizant
+12,Factorial,Recursion,easy,Compute factorial of n,Base case n=0 returns 1,TCS|Wipro
+13,Maximum Subarray,Dynamic Programming,medium,Find contiguous subarray with max sum,Kadane's algorithm,Amazon|Google
+14,Longest Common Prefix,Strings,medium,Find longest common prefix among strings,Sort and compare first/last,Google|Flipkart
+15,Level Order Traversal,Trees,medium,BFS traversal of binary tree level by level,Use a queue,Amazon|Microsoft
+16,Number of Islands,Graphs,medium,Count islands in a 2D grid,DFS/BFS flood fill,Amazon|Google|Uber
+17,LRU Cache,Design,medium,Design a Least Recently Used cache,Doubly linked list + hashmap,Amazon|Microsoft|Uber
+18,Course Schedule,Graphs,medium,Detect if course prerequisites form a cycle,Topological sort / DFS cycle detection,Google|Amazon
+19,Word Break,Dynamic Programming,medium,Can string be segmented into dictionary words?,DP with memo,Google|Facebook
+20,Rotate Image,Arrays,medium,Rotate NxN matrix 90 degrees in-place,Transpose then reverse rows,Microsoft|Snapchat
+21,Group Anagrams,Strings,medium,Group strings that are anagrams of each other,Sort each string as key in hashmap,Amazon|Facebook
+22,Binary Tree Zigzag,Trees,medium,Zigzag level order traversal of binary tree,BFS with direction flag,Amazon|Microsoft
+23,Coin Change,Dynamic Programming,medium,Minimum coins to make amount,dp[amount] = min(dp[amount-coin]+1),Amazon|Google|Uber
+24,Find Duplicate Number,Arrays,medium,Find duplicate in array of n+1 integers,Floyd's cycle detection,Google|Apple
+25,Median of Two Sorted Arrays,Binary Search,hard,Find median of two sorted arrays in O(log n),Binary search on smaller array,Google|Apple
+26,Serialize/Deserialize Tree,Trees,hard,Convert binary tree to string and back,BFS with null markers,Amazon|Facebook
+27,Trapping Rain Water,Arrays,hard,Calculate water trapped between bars,Precompute left/right max arrays,Google|Amazon|Goldman Sachs
+28,N-Queens Problem,Backtracking,hard,Place N queens on NxN board without attack,Backtrack with column/diagonal sets,Google|Uber
+29,Edit Distance,Dynamic Programming,hard,Minimum operations to convert string A to B,2D DP table with insert/delete/replace,Google|Microsoft
+30,Alien Dictionary,Graphs,hard,Find character order from sorted alien words,Topological sort on character graph,Airbnb|Google|Facebook

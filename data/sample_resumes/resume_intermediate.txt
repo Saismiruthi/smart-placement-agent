@@ -1,0 +1,35 @@
+ARJUN KUMAR
+arjun.kumar@gmail.com | +91 9876543210 | linkedin.com/in/arjunkumar
+Anna University, Chennai | B.Tech Computer Science | CGPA: 8.2
+
+SKILLS
+Programming: Python, Java, SQL
+Machine Learning: Scikit-learn, Pandas, NumPy, TensorFlow
+Web: Flask, HTML, CSS, REST API
+Tools: Git, Docker (basic), Jupyter Notebook
+
+EXPERIENCE
+Data Science Intern — TechCorp Pvt Ltd (Jan 2023 – Jun 2023)
+- Built customer churn prediction model achieving 87% accuracy
+- Used feature engineering and gradient boosting (XGBoost)
+- Deployed model as Flask REST API serving 500+ daily predictions
+- Collaborated with 4-member cross-functional team
+
+PROJECTS
+Sentiment Analysis System
+- Built NLP pipeline using BERT for product review classification
+- Achieved 91% F1-score on test dataset
+- Processed 50,000+ reviews from Amazon dataset
+
+Customer Segmentation Dashboard
+- Used K-Means clustering for customer segmentation
+- Built interactive Tableau dashboard for business stakeholders
+- Reduced marketing cost by 18% through targeted campaigns
+
+EDUCATION
+B.Tech Computer Science — Anna University (2024)
+CGPA: 8.2/10 | Relevant Coursework: ML, DBMS, Algorithms, OS
+
+ACHIEVEMENTS
+- 2nd Place — Smart India Hackathon 2023 (ML Track)
+- Published blog on Medium: "Feature Engineering Best Practices"

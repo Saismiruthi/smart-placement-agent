@@ -1,0 +1,72 @@
+# ── Virtual Environment ────────────────────────────────────
+venv/
+env/
+.env
+*.env
+
+# ── ChromaDB blobs (auto-generated at root level) ──────────
+blobs/
+manifests/
+
+
+# ── Python Cache ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# ── ChromaDB Vector Store (large binary files) ─────────────
+memory/chroma_db/
+memory/sqlite/
+
+# ── Streamlit Cache ────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Model Cache (Sentence Transformers downloads here) ─────
+.cache/
+models/
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# ── PDF Files (may contain personal data) ──────────────────
+data/sample_resumes/*.pdf
+
+# ── Student Data (private) ─────────────────────────────────
+data/student_profiles/
+
+# ── IDE & OS Files ─────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ── Logs ───────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Test artifacts ─────────────────────────────────────────
+.pytest_cache/
+htmlcov/
+.coverage
+
+# ── Build artifacts ────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+
+# Additional virtual environments
+venv311/
+.venv/
+
+# Environment variable files
+.env.*
+!.env.example
